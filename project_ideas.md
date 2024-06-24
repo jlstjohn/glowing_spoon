@@ -31,3 +31,4 @@ Ideas inspired by or sourced from:
   - pokedex type application
   - expand sturm data visualization
   - database for camp resources
+  - GAN gen-AI
