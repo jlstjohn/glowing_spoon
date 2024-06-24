@@ -26,3 +26,8 @@ Ideas inspired by or sourced from:
  
 - Me
   - election prediction
+  - something with FOB music
+  - climate data
+  - pokedex type application
+  - expand sturm data visualization
+  - database for camp resources
