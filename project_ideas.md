@@ -2,7 +2,7 @@ Ideas inspired by or sourced from:
 
 - DS Capstone Class https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects:
   - The Beat of the Music
-  - Classifying Fake News
+  - Classifying Fake News - GAN?
   - Spotify Top Songs
   - Chatbot
   - Detecting Credit Card Fraud
